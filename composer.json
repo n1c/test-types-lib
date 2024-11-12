@@ -1,0 +1,16 @@
+{
+    "name": "n1c/test-types-lib",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "n1c\\TestTypesLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nic",
+            "email": "hi@n1c.dev"
+        }
+    ],
+    "require": {}
+}
